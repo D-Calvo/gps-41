@@ -1,3 +1,7 @@
+"""
+Aquest mòdul conté tests unitaris per provar les transformacions de strings.
+"""
+
 import unittest
 import transform
 
